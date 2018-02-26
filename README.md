@@ -3,18 +3,19 @@
 Events list:
 
 1. Cloud Expo Europe
-2. KubeCon Europe
-3. RedHat Summit
-4. DevSecCon
-5. Container Camp AUS
-6. DockerCon US
-7. Cloud and DevOps World
-8. DevOps Enterprise Summit
-9. Microsoft Ignite
-10. HashiConf
-11. AWS reinvent
-12. KubeCon NA 
-13. Microsoft Connect
+2. CLOUDFEST 
+3. KubeCon Europe
+4. RedHat Summit
+5. DevSecCon
+6. Container Camp AUS
+7. DockerCon US
+8. Cloud and DevOps World
+9. DevOps Enterprise Summit
+10. Microsoft Ignite
+11. HashiConf
+12. AWS reinvent
+13. KubeCon NA 
+14. Microsoft Connect
 
 ## Details of events
 
@@ -36,7 +37,7 @@ place :Europa-Park, Germany
 
 Description: Welcome to CloudFest 2018—everything you loved about WHD.global only bigger, bolder, and reflecting the entire cloud ecosystem. It’s a place where partners and attendees become as much a part of the program as the inspiring speakers who take to the stage. CloudFest embraces and celebrates the cloud industry –  it is everything new and exciting in technology and internet innovation. A place where like-minded thinkers and visionaries collaborate to move the cloud industry forward.  [Read More](https://www.cloudfest.com/) 
 
-![](https://www.cloudfest.com/wp-content/uploads/2018/01/CF_DDP_white-1.svg?x88232)
+![](https://www.openio.io/wp-content/uploads/2018/01/logo-event-cloudfest@2x.png)
 
 
 
