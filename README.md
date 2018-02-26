@@ -28,6 +28,18 @@ Description:  Container World offers in-depth production-ready case studies that
 
 ![](https://knect365.imgix.net/uploads/New-Web-Header-b1abb356d1689a73d10818c40ab9d2da.PNG?w=370&h=80&fit=max&or=0&compress=true)
 
+### Event: CLOUDFEST Germany
+
+Date : 10-16 March
+
+place :Europa-Park, Germany
+
+Description: Welcome to CloudFest 2018—everything you loved about WHD.global only bigger, bolder, and reflecting the entire cloud ecosystem. It’s a place where partners and attendees become as much a part of the program as the inspiring speakers who take to the stage. CloudFest embraces and celebrates the cloud industry –  it is everything new and exciting in technology and internet innovation. A place where like-minded thinkers and visionaries collaborate to move the cloud industry forward.  [Read More](https://www.cloudfest.com/) 
+
+![](https://www.cloudfest.com/wp-content/uploads/2018/01/CF_DDP_white-1.svg?x88232)
+
+
+
 ### Event: Cloud Expo Europe
 
 Date : 21-22 March
